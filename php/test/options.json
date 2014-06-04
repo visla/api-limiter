@@ -1,0 +1,14 @@
+{
+   "functionTest1" : {
+       "allowedCalls" : "2",
+       "timeframe" : "2",
+       "allowedIPSources" : "0",
+       "IPSourcesExpiration": "1000"
+    },
+   "functionTest2" : {
+       "allowedCalls" : "100",
+       "timeframe" : "2",
+       "allowedIPSources" : "2",
+       "IPSourcesExpiration": "2"
+   }
+}
